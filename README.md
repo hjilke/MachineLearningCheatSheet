@@ -14,4 +14,5 @@ Here a list of interesting and relevant publications
 
 * [Why is it hard to train feedforward nets?](http://proceedings.mlr.press/v9/glorot10a/glorot10a.pdf)
 * [Why batchnormalization?](https://arxiv.org/pdf/1502.03167v2.pdf)
+* [The Godfathers of LSTMs] (http://www.bioinf.jku.at/publications/older/2604.pdf)
 
